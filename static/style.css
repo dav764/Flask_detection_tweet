@@ -1,0 +1,11 @@
+.background-header {
+    width: 100%;
+    height: 200px; /* Hauteur de l'image en haut */
+    background-image: url('C://Users//ACER//myproject//static//images//2.jpg'); /* Remplacez par le chemin de votre image */
+    background-size: cover; /* Ajuste l'image pour couvrir tout l'espace */
+    background-position: center; /* Centre l'image */
+    color: white; /* Couleur du texte */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

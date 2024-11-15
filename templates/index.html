@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Flask App - Accueil</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        h1, p, a {
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Bienvenue dans mon application Flask</h1>
+        <p>Cette application vous permet d’obtenir des prédictions basées sur notre modèle G10.</p>
+        <a href="{{ url_for('form') }}">Aller à la page de formulaire </a>
+    </div>
+</body>
+</html>
