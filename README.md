@@ -13,14 +13,18 @@ Avant de pouvoir exécuter le projet, assurez-vous que vous avez installé les �
 ### Dépendances
 
 Les principales bibliothèques utilisées dans ce projet sont :
-
-- scikit-learn
-- pandas
+- Flask
+- gunicorn
 - numpy
+- pillow
+- pydantic
+- scikit-learn
+- joblib
+- pandas
+- nltk
 - matplotlib
 - nltk
-- imbalanced-learn
-- cuml (pour l'accélération GPU)
+
   
 Vous pouvez installer ces dépendances en exécutant :
 
