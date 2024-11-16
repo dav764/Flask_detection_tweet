@@ -32,8 +32,8 @@ Vous pouvez installer ces dépendances en exécutant :
 Une fois l'environnement virtuel activé et les dépendances installées, vous pouvez démarrer l'application en exécutant le fichier hello.py:
 
 ### Auteurs
-David BOUDA
-Patrick BITCHIBALI
+- David BOUDA
+- Patrick BITCHIBALI
 Collaborateurs (si applicable)
 
 ```bash
