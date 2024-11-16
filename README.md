@@ -34,7 +34,7 @@ Une fois l'environnement virtuel activé et les dépendances installées, vous p
 ### Auteurs
 - David BOUDA
 - Patrick BITCHIBALI
-Collaborateurs (si applicable)
+
 
 ```bash
 pip install -r requirements.txt
