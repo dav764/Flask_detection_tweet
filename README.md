@@ -1,0 +1,28 @@
+# Détection de Tweets Suspects
+
+## Description
+Ce projet porte sur la détection de tweets suspects en utilisant des techniques d'analyse de données textuelles. Nous avons mis en œuvre des méthodes de prétraitement et de classification pour identifier les tweets suspects tout en tenant compte des défis liés à la diversité des langues, de la bonne rédaction des tweets et des techniques de suréchantillonnage. L'objectif principal est d'améliorer la robustesse du modèle tout en préservant l'intégrité du message, afin d'obtenir de meilleures prédictions sur les tweets.
+
+## Prérequis
+
+Avant de pouvoir exécuter le projet, assurez-vous que vous avez installé les éléments suivants sur votre machine :
+
+- Python 3.x
+- Pip (gestionnaire de paquets Python)
+
+### Dépendances
+
+Les principales bibliothèques utilisées dans ce projet sont :
+
+- scikit-learn
+- pandas
+- numpy
+- matplotlib
+- nltk
+- imbalanced-learn
+- cuml (pour l'accélération GPU)
+  
+Vous pouvez installer ces dépendances en exécutant :
+
+```bash
+pip install -r requirements.txt
