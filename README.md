@@ -24,10 +24,10 @@ Les principales bibliothèques utilisées dans ce projet sont :
   
 Vous pouvez installer ces dépendances en exécutant :
 
-###Utilisation
+### Utilisation
 Une fois l'environnement virtuel activé et les dépendances installées, vous pouvez démarrer l'application en exécutant le fichier app.py:
 
-###Auteurs
+### Auteurs
 David BOUDA
 Patrick BITCHIBALI
 Collaborateurs (si applicable)
